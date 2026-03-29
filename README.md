@@ -8,6 +8,10 @@ This dataset is designed to support research on Foley sound analysis and related
 
 To preserve anonymity during the review process, all author-identifying information has been removed from this repository.
 
+## Download Dataset
+
+[Google Drive Folder](https://drive.google.com/drive/folders/1zEl0x8f926K36Sgny7xY_e_mFE8bUBNY?usp=share_link)
+
 ## Repository Structure
 
 ```text
@@ -16,9 +20,9 @@ To preserve anonymity during the review process, all author-identifying informat
 ├── metadata/
 │   └── metadata.csv
 ├── benchmark/
-│   └── benchmark_classification.py
-│   └── passt_major_result
-└── └── passt_sub_result
+│   ├── benchmark_classification.py
+│   ├── passt_major_result/
+│   └── passt_sub_result/
 
 
-## Download Dataset
+
