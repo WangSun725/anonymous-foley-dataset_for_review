@@ -1,0 +1,15 @@
+                      precision    recall  f1-score   support
+
+          Break/Drop     0.7838    0.7532    0.7682        77
+               Click     0.8193    0.8608    0.8395        79
+            Clothing     0.5595    0.8545    0.6763        55
+            Footstep     0.9513    0.8581    0.9023       296
+               Human     0.8705    0.8013    0.8345       151
+              Liquid     0.9342    0.8987    0.9161        79
+Material-Interaction     0.6598    0.6337    0.6465       101
+               Metal     0.7759    0.8738    0.8219       103
+Open/Close-Mechanism     0.7969    0.8644    0.8293        59
+
+            accuracy                         0.8240      1000
+           macro avg     0.7946    0.8221    0.8038      1000
+        weighted avg     0.8363    0.8240    0.8270      1000

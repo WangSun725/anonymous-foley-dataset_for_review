@@ -1,0 +1,79 @@
+                   precision    recall  f1-score   support
+
+        BoneBreak     0.4444    0.4444    0.4444         9
+      BottleCrush     0.5000    0.2000    0.2857         5
+           Breath     0.6250    0.4545    0.5263        11
+           Bubble     0.8333    1.0000    0.9091         5
+       BulletDrop     0.2000    0.1667    0.1818         6
+             Burp     0.9130    0.8750    0.8936        24
+      ButtonPress     0.5000    0.5714    0.5333        14
+         CanCrush     0.2500    0.5000    0.3333         6
+            Chain     1.0000    0.2500    0.4000         8
+    ClothMovement     0.7500    0.6316    0.6857        19
+     ClothRipping     1.0000    0.4000    0.5714         5
+     ClothRubbing     0.4737    0.3462    0.4000        26
+       CoinJingle     0.8571    0.5217    0.6486        23
+            Cough     1.0000    0.7895    0.8824        19
+    DoorOpenClose     0.5000    0.5385    0.5185        26
+         DoorSlam     0.5714    0.8000    0.6667         5
+       DoorSqueak     0.7500    0.5455    0.6316        11
+  DrawerOpenClose     0.7143    0.4545    0.5556        11
+             Drip     0.0000    0.0000    0.0000         5
+         EatDrink     0.4565    0.8750    0.6000        24
+             Fall     0.1429    0.5000    0.2222         4
+             Fart     1.0000    1.0000    1.0000         9
+           Faucet     0.5000    0.2000    0.2857         5
+       GlassBreak     0.5500    0.6471    0.5946        17
+        GlassDing     0.7778    1.0000    0.8750         7
+     GunMechanism     0.4286    1.0000    0.6000         3
+        HeartBeat     1.0000    1.0000    1.0000         2
+         IceBreak     0.1111    0.0769    0.0909        13
+          IceCube     0.4167    0.8333    0.5556         6
+        KeyJingle     0.5000    0.8182    0.6207        11
+   KeyboardTyping     1.0000    0.7778    0.8750         9
+             Kiss     0.9167    1.0000    0.9565        11
+            Knife     1.0000    0.4286    0.6000         7
+             Knob     0.3333    0.3333    0.3333         3
+            Knock     0.9286    1.0000    0.9630        13
+            Latch     0.0000    0.0000    0.0000         5
+    LiquidShaking     0.2857    0.5000    0.3636         4
+             Lock     0.4000    0.3750    0.3871        16
+         Magazine     0.9167    0.9167    0.9167        12
+       MetalClank     0.5000    0.4000    0.4444         5
+        MetalDrop     0.0000    0.0000    0.0000         4
+       MetalScape     0.3000    0.7500    0.4286         4
+ MouseButtonClick     0.7500    0.4286    0.5455         7
+     PaperRubbing     0.4000    0.3333    0.3636         6
+        PaperTear     1.0000    0.1176    0.2105        17
+       PenWriting     0.5714    0.5714    0.5714         7
+    PencilWriting     0.4762    0.8333    0.6061        12
+             Pipe     0.3636    0.6667    0.4706         6
+   PlasticRubbing     0.5625    0.6923    0.6207        13
+             Pour     0.8125    0.9286    0.8667        28
+         PunchHit     0.2759    0.6154    0.3810        13
+              Run     0.5938    0.9500    0.7308        20
+           Shower     1.0000    0.8462    0.9167        13
+       SingleStep     0.5185    0.9333    0.6667        45
+         Slurping     0.4000    0.5000    0.4444         4
+           Sneeze     0.6923    1.0000    0.8182         9
+          Sniffle     0.5000    0.5000    0.5000         4
+            Snore     0.8889    0.5333    0.6667        15
+           Splash     0.7273    0.6667    0.6957        12
+          Stapler     0.6667    0.3333    0.4444         6
+         StrawSip     0.0000    0.0000    0.0000         2
+     SwitchToggle     0.8947    0.7083    0.7907        24
+            Sword     0.4211    0.6667    0.5161        12
+         TapePeel     0.6667    0.3333    0.4444         6
+           Toilet     1.0000    1.0000    1.0000         7
+         Umbrella     0.8000    0.8000    0.8000         5
+        VelcroRip     0.4211    0.8889    0.5714         9
+             Walk     0.9667    0.6277    0.7612       231
+WhiteboardWriting     1.0000    1.0000    1.0000         3
+   WindowCleaning     1.0000    0.5000    0.6667         4
+  WindowOpenClose     0.0000    0.0000    0.0000         6
+        WoodBreak     0.0000    0.0000    0.0000         6
+        ZipperZip     0.8333    0.9375    0.8824        16
+
+         accuracy                         0.6410      1000
+        macro avg     0.5966    0.5868    0.5580      1000
+     weighted avg     0.7146    0.6410    0.6438      1000

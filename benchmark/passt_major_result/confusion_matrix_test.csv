@@ -1,0 +1,10 @@
+,Break/Drop,Click,Clothing,Footstep,Human,Liquid,Material-Interaction,Metal,Open/Close-Mechanism
+Break/Drop,58,0,0,0,2,0,10,4,3
+Click,1,68,0,0,1,0,0,9,0
+Clothing,0,1,47,4,0,0,3,0,0
+Footstep,3,0,17,254,7,2,9,2,2
+Human,0,4,7,4,121,3,9,1,2
+Liquid,0,1,1,4,2,71,0,0,0
+Material-Interaction,9,4,11,1,5,0,64,7,0
+Metal,3,4,0,0,0,0,0,90,6
+Open/Close-Mechanism,0,1,1,0,1,0,2,3,51

@@ -1,0 +1,24 @@
+{
+  "label2id": {
+    "Break/Drop": 0,
+    "Click": 1,
+    "Clothing": 2,
+    "Footstep": 3,
+    "Human": 4,
+    "Liquid": 5,
+    "Material-Interaction": 6,
+    "Metal": 7,
+    "Open/Close-Mechanism": 8
+  },
+  "id2label": {
+    "0": "Break/Drop",
+    "1": "Click",
+    "2": "Clothing",
+    "3": "Footstep",
+    "4": "Human",
+    "5": "Liquid",
+    "6": "Material-Interaction",
+    "7": "Metal",
+    "8": "Open/Close-Mechanism"
+  }
+}
