@@ -17,6 +17,8 @@ To preserve anonymity during the review process, all author-identifying informat
 │   └── metadata.csv
 ├── benchmark/
 │   └── benchmark_classification.py
-└── docs/
+│   └── passt_major_result
+└── └── passt_sub_result
+
 
 ## Download Dataset
