@@ -4,13 +4,8 @@ This repository contains the anonymized review version of a Foley audio dataset 
 
 ## Overview
 
-This dataset is designed to support research on Foley sound analysis and related machine learning tasks. It consists of 10,000 curated audio clips and a metadata file describing dataset organization and annotations.
-
-To preserve anonymity during the review process, all author-identifying information has been removed from this repository.
-
-## Download Dataset
-
-[Google Drive Folder](https://drive.google.com/drive/folders/1zEl0x8f926K36Sgny7xY_e_mFE8bUBNY?usp=share_link)
+This dataset supports research in Foley sound analysis and related machine learning tasks. It consists of 10,000 curated audio clips accompanied by a metadata file describing the dataset organization and annotation scheme.
+To preserve anonymity during peer review, all author-identifying information has been omitted from this repository. The associated code repository provides the dataset metadata, benchmark Python scripts, and evaluation results across both major and sub-category levels.
 
 ## Repository Structure
 
